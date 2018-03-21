@@ -6,7 +6,11 @@ import java.util.Map;
 import java.util.WeakHashMap;
 
 public class WeakHashMapFun {
-
+    /**
+     *
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
         String key1 = new String("key1");
         String key2 = new String("key2");
